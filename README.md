@@ -10,11 +10,11 @@ The paper investigates how political expression by scientists on social media af
 
 **Repository Contents**
 
-_Polarized_Scientists_main_140425.pdf_
+_Polarized_Scientists_main_date.pdf_
 
 The main paper. It includes key findings, theoretical motivation, empirical strategy, and main results.
 
-_Polarized_Scientists_supp_140425.pdf_
+_Polarized_Scientists_supp_date.pdf_
 
 The supplementary appendix. This contains additional tables, figures, robustness checks, and expanded methodological details.
 
