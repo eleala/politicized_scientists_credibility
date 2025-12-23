@@ -18,6 +18,10 @@ _Polarized_Scientists_supp_date.pdf_
 
 The supplementary appendix. This contains additional tables, figures, robustness checks, and expanded methodological details.
 
+_Polarized_Scientists_all_date.pdf_
+
+Combines the main paper and the appendix into a unique file. 
+
 _Polarized_Scientists_instructions.pdf_
 
 A detailed description of survey and experimental instructions used across general population, journalist, and scientist samples.
